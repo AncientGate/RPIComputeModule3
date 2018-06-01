@@ -17,3 +17,8 @@ We do reserve the right to change this library at any given time point without a
 Enjoy our work!
 
 Any support is highly appreciated at Indiegogo.com
+
+# 3rd party 3D models
+
+This Library may contain by the third party released 3D models temporarely.
+All rights for those belongs to the original creators only.
